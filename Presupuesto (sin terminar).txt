@@ -1,0 +1,33 @@
+Mercado Libre: LINKS
+
+- Dron (Chino poné noseasgay)
+
+- Microcontrolador (AR$700) (ej. Pic16f876 8 Bits Dip-28 que se ve bien pulenta)
+https://articulo.mercadolibre.com.ar/MLA-813260247-pic16f876-pic16f876a-microcontrolador-8-bits-dip-28-_JM#position=8&type=item&tracking_id=943fdcc1-a8d2-4c70-b1a4-d3f179407338
+
+- Componentes Varios:
+	- Resistencias (diversas = AR$300)
+	https://articulo.mercadolibre.com.ar/MLA-621167866-kit-100-resistencias-5-valores-diversos-a-eleccion-arduino-_JM#position=2&type=item&tracking_id=9d888c91-f7b8-4765-99cd-851c6f0922a4
+	
+	- Capacitores (10 de 1000uF x 25V = AR$450)
+	https://articulo.mercadolibre.com.ar/MLA-896603387-10-unidades-capacitor-1000uf-x-25v-electrolitico-1000mf-25v-_JM#position=7&type=item&tracking_id=4c7cddb5-2018-43fb-84c7-6ccd8edfa207
+	
+	- Borneras (suponiendo que son lo que creo que son, aprox. AR$300 qcyo flaco son borneras preguntale a Claudio el de la Electrodoméstica de enfrente)
+	https://articulo.mercadolibre.com.ar/MLA-832530280-bornera-de-union-6-mm-enchufable-plastica-12-bocas-_JM#position=6&type=item&tracking_id=27f7264e-5245-49be-aee6-ac2ae1aba156
+
+- Cámara Deportiva Sumergible 4k Kanji Go Pro (AR$5000) (70-90 minutos dur.) (calidad verificada, aceptable)
+https://articulo.mercadolibre.com.ar/MLA-789180507-camara-deportiva-sumergible-4k-kanji-go-pro-casco-moto-fhd-_JM#position=1&type=item&tracking_id=8fdfb894-d48d-418f-bce5-3d0dec5ba1cd
+
+- SanDisk SDSQUNS-064G-GN3MA Ultra con adaptador SD 64GB (AR$1500)
+https://www.mercadolibre.com.ar/tarjeta-de-memoria-sandisk-sdsquns-064g-gn3ma-ultra-con-adaptador-sd-64gb/p/MLA8859356?pdp_filters=category:MLA3553#searchVariation=MLA8859356&position=1&type=product&tracking_id=0e49c007-db05-4589-93d6-a95ffdc38f9e
+
+- Socket SD (me parece que ya viene incluído arriba, pero puedo ser medio pelotudo, así que por las dudas AR$1500 más pa)
+
+ACLARACIÓN: SANDISK Y SOCKET SOLUCIONADO POR AR$5500 (elegir si por separado o junto)
+https://articulo.mercadolibre.com.ar/MLA-638663936-memoria-sandisk-extreme-64gb-camara-gopro-4k-_JM#position=8&type=pad&tracking_id=561f0522-89fb-40e7-98d7-49bb3f5033f3&is_advertising=true&ad_domain=VQCATCORE_LST&ad_position=8&ad_click_id=OTlhMzc1MGYtNjkzYy00M2YzLWEyNDgtMTQ3Mjk4NTE3OGYx
+
+- Giróscopo Electrónico (AR$280 ó AR$413. no sé cuál sirve)
+https://articulo.mercadolibre.com.ar/MLA-826623625-mpu-6050-acelerometro-giroscopio-3-ejes-arduino-modulo-_JM#position=12&type=item&tracking_id=8ab10b82-cc93-4160-bd70-c6b3f7cab25d
+
+- Giróscopo Mecánico (AR$3000, suponiendo que quieran usar esta cagada)
+https://articulo.mercadolibre.com.ar/MLA-606069177-giroscopo-tedco-importado-original-giroscopio-gyroscope-_JM#position=20&type=item&tracking_id=8aef74ea-6c3d-416b-a4d4-ba6fc0046b81
